@@ -43,7 +43,7 @@
     "sass": "^1.17.2",
     "semantic-ui-react": "^0.84.0",
     "sequelize": "^5.16.0",
-    "socket.io": "^2.1.1"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
